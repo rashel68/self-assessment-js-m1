@@ -7,4 +7,4 @@ function centimeterTOmeter(centi) {
 let centimeterInput = 150;
 
 const meterOutput = centimeterTOmeter(centimeterInput);
-console.log(centimeterInput, 'Centimeter = ', meterOutput, 'Meter');
+// console.log(centimeterInput, 'Centimeter = ', meterOutput, 'Meter');

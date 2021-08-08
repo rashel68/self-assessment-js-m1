@@ -7,4 +7,4 @@ for (const element of numbers) {
         positveNumber.push(element);
     }
 }
-console.log(positveNumber);
+// console.log(positveNumber);

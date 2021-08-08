@@ -11,4 +11,4 @@ function bestFriends(array) {
 }
 
 let largeName = bestFriends(friends);
-console.log('This is the largest name of friends array > ', largeName);
+// console.log('This is the largest name of friends array > ', largeName);

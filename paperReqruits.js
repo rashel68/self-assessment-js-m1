@@ -16,4 +16,4 @@ let book2 = 2;
 let book3 = 1;
 
 const totalPage = paperReqruits(book1, book2, book3);
-console.log('Total need ', totalPage, ' pages');
+// console.log('Total need ', totalPage, ' pages');

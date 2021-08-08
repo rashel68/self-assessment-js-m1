@@ -8,4 +8,4 @@ function feetTOinches(feet) {
 let inputFeet = 5;
 
 const inchesOutput = feetTOinches(inputFeet);
-console.log(inputFeet, ' Feet = ', inchesOutput, 'Inches');
+// console.log(inputFeet, ' Feet = ', inchesOutput, 'Inches');
